@@ -1,0 +1,12 @@
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/985/GCF_000002985.6_WBcel235/GCF_000002985.6_WBcel235_genomic.gff.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/985/GCF_000002985.6_WBcel235/GCF_000002985.6_WBcel235_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/183/535/GCF_010183535.1_CRPX506/GCF_010183535.1_CRPX506_genomic.gff.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/183/535/GCF_010183535.1_CRPX506/GCF_010183535.1_CRPX506_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/555/GCF_000004555.2_CB4/GCF_000004555.2_CB4_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/555/GCF_000004555.2_CB4/GCF_000004555.2_CB4_genomic.gff.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/143/925/GCA_000143925.2_C_brenneri-6.0.1b/GCA_000143925.2_C_brenneri-6.0.1b_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/143/925/GCA_000143925.2_C_brenneri-6.0.1b/GCA_000143925.2_C_brenneri-6.0.1b_genomic.gff.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/829/315/GCA_902829315.1_CBOVIS_v1.1/GCA_902829315.1_CBOVIS_v1.1_genomic.gff.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/902/829/315/GCA_902829315.1_CBOVIS_v1.1/GCA_902829315.1_CBOVIS_v1.1_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/845/305/GCA_904845305.1_CAUJ/GCA_904845305.1_CAUJ_genomic.fna.gz
+https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/904/845/305/GCA_904845305.1_CAUJ/GCA_904845305.1_CAUJ_genomic.gff.gz
